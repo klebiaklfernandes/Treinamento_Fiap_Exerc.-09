@@ -1,0 +1,17 @@
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\OpLogicoNao.exe
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\OpLogicoNao.deps.json
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\OpLogicoNao.runtimeconfig.json
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\OpLogicoNao.dll
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\ref\OpLogicoNao.dll
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\bin\Debug\net6.0-windows\OpLogicoNao.pdb
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.csproj.AssemblyReference.cache
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.Form1.resources
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.csproj.GenerateResource.cache
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.AssemblyInfoInputs.cache
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.AssemblyInfo.cs
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.csproj.CoreCompileInputs.cache
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.dll
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\ref\OpLogicoNao.dll
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.pdb
+C:\AulaFiap\OpLogicoNao\OpLogicoNao\obj\Debug\net6.0-windows\OpLogicoNao.genruntimeconfig.cache
